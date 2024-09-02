@@ -1,0 +1,5 @@
+   Subsistema de Ejecucion de Ordenes
+
+Este subsistema toma acciones basadas en las conclusiones del motor de inferencia, como ejecutar comandos o iniciar 
+procesos. En el ejemplo de sistema experto en fallos de red, el sistema podría reiniciar un dispositivo de red o 
+ejecutar un comando de limpieza de procesos innecesarios para aligerar el tráfico 
