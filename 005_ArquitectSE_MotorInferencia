@@ -1,0 +1,5 @@
+   Motor de Inferencia
+
+Es el núcleo del sistema experto, aplica el conocimiento almacenado a los datos actuales para llegar a conclusiones 
+o diagnósticos. El motor de inferencia de un sistema experto en problemas de red analiza los sintomas en la red como
+alta latencia y sugiere posibles causas basadas en el conocimiento almacenado.
