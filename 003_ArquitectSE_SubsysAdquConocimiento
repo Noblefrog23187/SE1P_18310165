@@ -1,0 +1,7 @@
+   Subsistema de Adquisición de Conocimiento (Experto-Sistema)
+
+Este subsistema gestiona la adición de nuevo conocimiento, ya sea por actualización o especificación a la base de 
+conocimiento. Debido a la naturaleza de los sistemas expertos, este mecanismo debe estar disponible sólo para los 
+espertos en la materia y se debe añadir información relevante y confiable para evitar corromper el conocimiento.
+Para el ejemplo que se viene aplicando, este sería el algoritmo encargado de añadir nuevas causas descubiertas
+para problemas en la red.
