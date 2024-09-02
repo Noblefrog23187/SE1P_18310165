@@ -1,0 +1,6 @@
+   Subsistema de aprendizaje
+
+Permite que el sistema experto se mejore con el tiempo mediante la incorporación de nueva información o ajustes con base
+en la retroalimentación de casos pasados. En el ejemplo de redes, el sistema puede ajustar sus diagnósticos futuros 
+basados en la retroalimentación de las acciones tomadas, mejorando la precisión del diagnóstico para situaciones muy 
+específicas o aisladas.
