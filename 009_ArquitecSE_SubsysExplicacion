@@ -1,0 +1,5 @@
+   Subsistema de Explicacion
+
+Proporciona al usuario una explicación clara sobre las conclusioneso acciones tomadas por el sistema, esto para aumentar
+la transparencia del sistema y ganar confianza en los usuarios. En el ejemplo sobre redes, podría explicar por qué se 
+reinició un router o dar una explicación sobre una sugerencia de acción específica.
