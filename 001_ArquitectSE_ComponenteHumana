@@ -1,0 +1,12 @@
+   Componente Humana
+
+Los expertos en un dominio específico proporcionan conocimiento especializado para que el programador lo traduzca a reglas que el
+sistema experto puede entender y utilizar. Un ejemplo aplicable es el diagnóstico de problemas de red, puede hacerse un conjunto de
+reglas sobre problemas comunes y sus causas en las redes de internet. 
+
+Un pequeño ejemplo en codigo puede ser un diccionario simple
+
+problemas = {
+    "Perdida de conexión": "Problema con el cableado",
+    "Alta latencia": "Congestión en el router"
+}
