@@ -1,0 +1,5 @@
+   Interfaz de Usuario
+
+Es el componente que permite la interaccion entre el usuario y el sistema experto, facilitando la entrada y salida
+de informacion de manera efectiva. Una interfaz de usuario de sistema de diagnostico de fallo de redes permitiria al
+usuario ingresar sintomas de problemas de red y recibir diagnosticos o sugerencias.
