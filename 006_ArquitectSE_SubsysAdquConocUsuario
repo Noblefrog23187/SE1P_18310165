@@ -1,0 +1,5 @@
+   Subsistema de Adquisición de Conocimiento (Usuario-Sistema)
+
+Si el conocimiento actual es insuficiente, este subsistema busca información adicional para continuar el analisis de la
+situación actual. En el ejemplo de redes, este solicitaría información adicional al usuario para determinar la causa de
+un problema de causa desconocida o para meujorar su diagnóstico.
