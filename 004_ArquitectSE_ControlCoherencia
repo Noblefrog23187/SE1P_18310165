@@ -1,0 +1,6 @@
+   Control de la Coherencia
+
+Este subsistema verifica que el conocimiento en la base sea consistente y no contradictorio, para evitar que el 
+sistema experto llegue a conclusiones incorrectas. En el ejemplo de redes, el control de coherencia verifica que las 
+causas asociadas a problemas de red no sean contradictorias, como asignar "cable de red desconectado" a un problema de 
+alta latencia.
