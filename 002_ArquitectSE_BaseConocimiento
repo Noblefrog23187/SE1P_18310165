@@ -1,0 +1,5 @@
+   Base de Conocimiento
+
+Es la estructura que almacena conocimiento general; reglas, hechos y relaciones aplicadas en distintas situaciones.
+Por ejemplo, la base de conocimiento de un sistema de diagnóstico de redes almacena maneras de identificar diferentes
+problemas de conectividad basados en síntomas observados.
